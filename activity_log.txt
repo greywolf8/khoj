@@ -2,3 +2,4 @@ Bump log timestamp — 2025-07-09 15:58:29
 Polish README formatting — 2025-08-27 15:11:37
 Chore: tidy up script — 2025-08-30 18:55:22
 Minor style cleanup — 2025-09-09 19:26:10
+Fix typo in documentation — 2025-10-26 18:22:33
